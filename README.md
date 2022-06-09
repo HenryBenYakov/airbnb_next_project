@@ -1,4 +1,4 @@
-# Welcome to my Airbnb Project
+# Welcome to my Airbnb Front-End Project
 
 ## The APP is been Deployed to Vercel
 
